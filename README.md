@@ -20,6 +20,6 @@ Beginner level Unity game project-Created this Project for Fun College Project i
 ![endscreen](https://user-images.githubusercontent.com/45056329/115852676-f5e42380-a445-11eb-9a11-49c07b32c7c0.png)
 
 
-I learnt to make this game from many youtube videos
+**I learnt to make this game from many youtube videos**
 credit-
 youtube.com/playlist?list=PLzDRvYVwl53ucaUs0YGfyyKXdgqh5OtiK
